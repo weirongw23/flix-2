@@ -5,7 +5,7 @@
 - [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 - [x] User can tap a poster in the collection view to see a detail screen of that movie.
 
-### App Walkthrough GIF
+### App Walkthrough
 <img src="http://g.recordit.co/TPwVsXBdD8.gif" width=250><br>
 <img src="http://g.recordit.co/WHfoR5mG3L.gif" width=250><br>
 
