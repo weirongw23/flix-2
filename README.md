@@ -12,3 +12,7 @@
 ### Notes
 - [x] XCode has a connection bug that I resolved
 - [x] API Issues with keys/movies were also resolved
+
+## License
+
+MIT License. © Weirong Wu, 2020
